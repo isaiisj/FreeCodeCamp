@@ -1,15 +1,21 @@
-string orderStream = "B123,C234,A345,C15,B177,G3003,C235,B179";
-string[] items = orderStream.Split(',');
-Array.Sort(items);
+using System;
 
-foreach (var item in items)
-{
-    if (item.Length == 4)
+class Program {
+  public static void Main (string[] args) {
+    string orderStream = "B123,C234,A345,C15,B177,G3003,C235,B179";
+    string[] items = orderStream.Split(',');
+    Array.Sort(items);
+    
+    foreach (var item in items)
     {
-        Console.WriteLine(item);
+        if (item.Length == 4)
+        {
+            Console.WriteLine(item);
+        }
+        else
+        {
+            Console.WriteLine(item + "\t- Error");
+        }
     }
-    else
-    {
-        Console.WriteLine(item + "\t- Error");
-    }
+  }
 }
