@@ -4,5 +4,5 @@ You can look all the projects alive in https://replit.com/@isaisj?path=folder/Fr
 <ul>
   <li>Responisve Web Design</li>
   <li>JavaScript Algorithms and Data Structures</li>
-  <li>C#</li>
+  <li>Foundational C# with Microsoft Certification</li>
 </ul>
