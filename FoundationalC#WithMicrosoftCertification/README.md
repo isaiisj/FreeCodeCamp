@@ -1,6 +1,6 @@
 # Foundational C# with Microsoft Certification
 Microsoft FreeCodeCamp Certification
-1. Write your first code using C#
-2.
-3.
-4.
+1. Write Your First Code Using C#
+2. Create and Run Simple C# Console Applications
+3. Add Logic to C# Console Applications
+4. Work with Variable Data in C# Console Applications
