@@ -1,4 +1,8 @@
-/*
+using System;
+
+class Program {
+  public static void Main (string[] args) {
+    /*
    This code reverses a message, counts the number of times 
    a particular character appears, then prints the results
    to the console window.
