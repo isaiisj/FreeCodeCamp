@@ -2,10 +2,10 @@ using System;
 
 class Program {
   public static void Main (string[] args) {
-    Console.Write("Congratulations!");
-    Console.Write(" ");
-    Console.Write("You wrote your first lines of code.");
-    Console.WriteLine(" ");
-    Console.WriteLine("Another Line");
+    Console.WriteLine("This is the first line.");
+
+    Console.Write("This is ");
+    Console.Write("the second ");
+    Console.Write("line.");
   }
 }
