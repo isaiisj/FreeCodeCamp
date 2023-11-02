@@ -1,0 +1,29 @@
+Compruebe si .NET ya está instalado.
+Abra la aplicación de Windows Símbolo del sistema u otra aplicación que muestre un símbolo del sistema de terminal.
+
+Las aplicaciones Símbolo del sistema y Windows PowerShell están en el menú Inicio. También puede abrir cualquiera de estas aplicaciones desde la barra de tareas de Windows escribiendo cmd o powershell respectivamente.
+
+Debería mostrarse un símbolo del sistema, como C:\Users\AccountName>.
+
+En el símbolo del sistema, escriba dotnet --version y presione la tecla Entrar.
+
+Este comando muestra el número de versión si .NET está instalado en el equipo.
+
+Dedíquele un momento a ver la respuesta al comando dotnet --version.
+
+Si recibe un mensaje de error que indica que el término dotnet no se reconoce, no tiene instalado el SDK de .NET.
+
+Si hay instalada una versión de .NET, debería ver un mensaje de respuesta con el número de versión similar al siguiente:
+
+7.0.306
+
+Cierre la ventana del símbolo del sistema.
+
+Para crear desde la terminal un projecto usamos
+dotnet new console -o ./CsharpProjects/TestProject
+
+Para correr
+dotnet run 
+
+y para crear un archivo ejecurable .dll
+dotnet build
