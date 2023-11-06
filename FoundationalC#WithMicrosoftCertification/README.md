@@ -5,3 +5,4 @@ Microsoft FreeCodeCamp 6 Courses Certification
 3. Add Logic to C# Console Applications
 4. Work with Variable Data in C# Console Applications
 5. Create Methods in C# Console Applications
+6. Debug C# Console Applications
