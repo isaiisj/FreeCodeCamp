@@ -1,2 +1,2 @@
 <li>Basic JavaScript</li>
-<li>Basic Algorithmic Scripting</li>
+<li>Basic Algorithm Scripting</li>
