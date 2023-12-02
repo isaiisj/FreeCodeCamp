@@ -5,6 +5,7 @@ You can look all the projects alive in https://replit.com/@isaisj?path=folder/Fr
   <li>Responisve Web Design</li>
   <li>JavaScript Algorithms and Data Structures</li>
   <li>Front End Develompent Libraries</li>
+  <li>Machine Learning with Python Certification</li>
   <li>Foundational C# with Microsoft Certification</li>
-  <li>Machine Learning with Python</li>
+  <li>Coding Interview Prep</li>
 </ul>
