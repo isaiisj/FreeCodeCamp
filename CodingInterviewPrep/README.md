@@ -1,1 +1,1 @@
-<li>Algorithmms</li>
+<li>Algorithms</li>
