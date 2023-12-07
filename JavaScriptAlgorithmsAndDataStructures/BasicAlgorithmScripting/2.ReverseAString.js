@@ -1,3 +1,9 @@
+/*
+Reverse the provided string and return the reversed string.
+
+For example, "hello" should become "olleh".
+*/
+
 function reverseString(str) {
   str = str.split('');
   str = str.reverse();
