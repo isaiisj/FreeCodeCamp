@@ -1,1 +1,1 @@
-
+<strong>Cafe Menu</strong>
